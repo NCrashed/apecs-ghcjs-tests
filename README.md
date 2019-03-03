@@ -1,5 +1,7 @@
 # Build
 
+You need [nix](https://nixos.org/nix/) packet manager to build the repo with GHCJS.
+
 ## Backend
 
 The following instructions allow to build backend incrementally.
