@@ -2,6 +2,6 @@
 import ((import <nixpkgs> {}).fetchFromGitHub {
   owner = "reflex-frp";
   repo = "reflex-platform";
-  rev = "ca2dc8a7768abbcdf3edd3ede9c359144c84dd3f";
-  sha256  = "0zqg9fq7bnl1zr673ij73cd0z95w38qp9i1r7gjc1f5zi8gmpwhx";
+  rev = "d5b662e220a73e9d711aff0133265b6aafda89d8";
+  sha256  = "1ri7khnxid8365s3vkgyny5ncgk1as86fjyznx3qj157mxgh3f3n";
 })
